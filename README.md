@@ -60,7 +60,8 @@ Analyze cancellation percentage by category (Jan–Dec).
 
 
 Example:
-![Cancellation Chart](cancellation_chart.png)
+![Cancellation Chart](https://github.com/Omprakash0009/LAX-Flight-Delay-Cancellation-Analysis-/blob/main/Cancellation.png?raw=true
+)
 
 ---
 
