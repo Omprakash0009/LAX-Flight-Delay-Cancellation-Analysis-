@@ -41,7 +41,6 @@ Forecast flight volume for 2016 based on historical data.
 - Target Year-over-Year Growth: **5%**
 
 ### 📸 Visualization
-👉 Insert your forecasting chart here  
 
 Example:
 ![Forecast Chart](forecast_chart.png)
@@ -58,7 +57,7 @@ Analyze cancellation percentage by category (Jan–Dec).
 - Weather: **6%**
 
 ### 📸 Visualization
-👉 Insert your cancellation chart here  
+
 
 Example:
 ![Cancellation Chart](cancellation_chart.png)
@@ -75,7 +74,7 @@ Compare performance of top airlines based on:
 - Cancellations  
 
 ### 📸 Visualization
-👉 Insert your airline performance chart here  
+ 
 
 Example:
 ![Airline Performance](airline_performance.png)
