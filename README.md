@@ -43,7 +43,7 @@ Forecast flight volume for 2016 based on historical data.
 ### 📸 Visualization
 
 Example:
-![Forecast Chart](forecast_chart.png)
+![Forecast Chart](https://raw.githubusercontent.com/Omprakash0009/LAX-Flight-Delay-Cancellation-Analysis-/f549b86acea646d7c9415376f4760dee842029d4/2016%20Forecast.png)
 
 ---
 
